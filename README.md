@@ -22,7 +22,7 @@ a tools to create Spotify account using python request s without selenium shitðŸ
  python run.py
 ```
 ## DEMO 
-* you can [click here](https://www.instagram.com/reel/C97CtwIyqFB/?igsh=MWZ6bDF5aGY3emVtYg==) 
+* you can [click here](https://youtu.be/1TCkS-XB7es?si=2pyI0h_80fP3Ji1A) 
 
 ## DONASI
 * anda bisa [klik disini](http://wa.me/6283198075343) untuk memberikan donasi
