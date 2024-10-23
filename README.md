@@ -1,0 +1,2 @@
+# cspo
+create spotify account
